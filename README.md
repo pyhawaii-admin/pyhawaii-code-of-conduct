@@ -1,4 +1,4 @@
-pycon-code-of-conduct
+PyHawaii-code-of-conduct
 =====================
 
 This is a "fork" of the 2013 PyCon code of conduct including the staff and attendee guides. 
