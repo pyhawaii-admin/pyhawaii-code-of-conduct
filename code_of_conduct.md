@@ -30,7 +30,7 @@ Exhibitors at any activity (i.e. at a physical conference) are also subject to t
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for PyHawaii.
 
-If a participant engages in behavior that violates this code of conduct, the PyHawaii organizers may take any action they deem appropriate, including warning the offender or expulsion from the community with no refund.
+If a participant engages in behavior that violates this code of conduct, the PyHawaii organizers may take any action they deem appropriate, including warning the offender or expulsion from the activity or community (if attending an actual physical activity, the determination to issue a refund is at the sole discretion of the activity organizers.)
 
 Contact Information
 -------------------
@@ -45,8 +45,8 @@ PyHawaii staff will be happy to help participants contact venue security or loca
 
 Procedure for Handling Harassment
 ------------------------------------------
-- [Attendee Procedure for incident handling](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/)
-- [Staff Procedure for incident handling](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/)
+- [Attendee Procedure for incident handling](http://www.pyhawaii.com/p/attendee-procedure-for-incident-handling.html)
+- [Staff Procedure for incident handling](http://www.pyhawaii.com/p/staff-procedure-for-incident-handling.html)
 
 License
 -------
