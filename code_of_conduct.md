@@ -4,7 +4,7 @@ The PyHawaii Python User Group is a community of programmers AND soon-to-be prog
 
 We value the participation of each member of the PyHawaii community and want all members to have an enjoyable and fulfilling experience. Accordingly, all members are expected to show respect and courtesy to other members both in online and face-to-face communications channels and throughout any and all PyHawaii activities, meetups, and conferences (collectively called "activity" or "activities" in this document), whether officially sponsored by PyHawaii or not.
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any PyHawaii activity are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the any and all activities.
+To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any PyHawaii activity are required to conform to the following Code of Conduct. Organizers will enforce this code throughout any and all activities.
 
 The Short Version
 -----------------
@@ -53,4 +53,4 @@ License
 
 This Code of Conduct was forked from the example policy from the [PyCon Code of Conference](https://github.com/python/pycon-code-of-conduct) which is under a Creative Commons Attribution 3.0 Unported License.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Conference Code of Conduct</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://us.pycon.org/2013/about/code-of-conduct/" property="cc:attributionName" rel="cc:attributionURL">https://us.pycon.org/2013/about/code-of-conduct/</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Conference Code of Conduct</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://us.pycon.org/2013/about/code-of-conduct/" property="cc:attributionName" rel="cc:attributionURL">http://www.pyhawaii.com/p/pyhawaii-code-of-conduct.html/</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
